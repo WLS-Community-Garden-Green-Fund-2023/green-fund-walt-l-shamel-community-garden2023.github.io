@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgreen_fund_walt_l_shamel_community_garden_2023_github_io=self.webpackChunkgreen_fund_walt_l_shamel_community_garden_2023_github_io||[]).push([[713],{3457:a=>{a.exports=JSON.parse('[{"label":"hola","permalink":"/blog/tags/hola","count":1},{"label":"docusaurus","permalink":"/blog/tags/docusaurus","count":1}]')}}]);
