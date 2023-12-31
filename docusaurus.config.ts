@@ -9,7 +9,7 @@ const config: Config = {
   // Set the production url of your site here
   url: 'https://green-fund-walt-l-shamel-community-garden2023..github.io/',
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: 'green-fund-walt-l-shamel-community-garden2023.github.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
