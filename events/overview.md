@@ -5,41 +5,32 @@ The proposal is to renovate the natural bioswale in the garden with the intent t
 
 Bioswales are crucial components of urban stormwater management systems that help filter and absorb rainwater, reducing runoff and improving water quality. 
 
-**Environmental Action, Health $1200**
+## **Environmental Action, Health `$1200`**
 
-From that goal this was the approved budget. 
+- 1. **Native Pollinators ($400**)
 
+  - Susan (Rudbeckia hirta) 2 (Echinacea purpurea) 3 (Asclepias tuberosa) | 1 | **$400**
 
+- 2. **Native Grass Pollinators**
 
-1. **Native Pollinators ($400**)
-
-1 Susan (Rudbeckia hirta) 2 (Echinacea purpurea) 3 (Asclepias tuberosa) | 1 | **$400**
-
-
-
-2. **Native Grass Pollinators**
-
-1.(Adagio Maiden 2 Grass,Ribbon Grass) | 1 | **$300**
-
-
+  - (Adagio Maiden 2 Grass,Ribbon Grass) | 1 | **$300**
 
 3. **Native Bush/Shrubs Pollinators**
-
-(Elderberry (Sambucus spp, Winterberry (Ilex verticillata, (Cornus sericea) | 1 | **$400**
-
-
+  - (Elderberry (Sambucus spp, Winterberry (Ilex verticillata, (Cornus sericea) | 1 | **$400**
 
 4. **Stones, sand. ($100)**
 
-**Wellness, Live Arts and Culture $1300**
-
-
+## **Wellness, Live Arts and Culture `$1300` **
 
 5. **Art project stage area**
 6. **Solar water feature** 
 7. **Solar lights**
 8. **Bat box** 
 9. **Pots and Outdoor Planter**s
+  - [Free Soil and Stone](https://www.nyc.gov/site/oer/safe-land/clean-soil-request.page)
+  -  [GreenThumb Materials Request Form]([here](https://forms.office.com/pages/responsepage.aspx?id=x2_1MoFfIk6pWxXaZlE777vIgzjC_gFHh0eUoNhEMEdURjRHS1NTWkI1R1FMU1A1RUdTMk8zTzc0UiQlQCN0PWcu&web=1&wdLOR=c200F2626-A017-4E11-B359-51D209B0DE43))
+
+
 
 
 <div>
