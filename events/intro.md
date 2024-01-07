@@ -1,26 +1,28 @@
 
-# Proposal Overview
+# Overview
 
 The proposal is to renovate the natural bioswale in the garden with the intent to beautify Crown Heights, promoting biodiversity, and strengthening community bonds. Supporting native pollinators helps maintain local biodiversity, supporting ecosystem health, and contributes to the overall well-being of the community. One of the primary needs we aim to address through this proposal is the improvement and beautification of the natural bioswale in the garden. 
 
 Bioswales are crucial components of urban stormwater management systems that help filter and absorb rainwater, reducing runoff and improving water quality. 
 
-## **Environmental Action, Health `$1200`**
+## **Environmental Action, Health `$1700`**
 
-- 1. **Native Pollinators ($400**)
+125
 
-  - Susan (Rudbeckia hirta) 2 (Echinacea purpurea) 3 (Asclepias tuberosa) | 1 | **$400**
+- 1. **Native Pollinators
+  - Susan (Rudbeckia hirta) ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a4c89600-1bda-4c65-8fbf-674c3a26b296)
+  - Echinacea purpurear ![images](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a41aa48c-19d7-48ed-932d-5b27da2a5654)
+- Asclepias tubeosa ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/df3d9fa0-f5c3-4fcd-9bd3-f12daac90e46)
 
 - 2. **Native Grass Pollinators**
-
-  - (Adagio Maiden 2 Grass,Ribbon Grass) | 1 | **$300**
+  - (Adagio Maiden 2 Grass,Ribbon Grass)
 
 3. **Native Bush/Shrubs Pollinators**
-  - (Elderberry (Sambucus spp, Winterberry (Ilex verticillata, (Cornus sericea) | 1 | **$400**
+  - (Elderberry (Sambucus spp, Winterberry (Ilex verticillata, (Cornus sericea)
 
 4. **Stones, sand. ($100)**
 
-## **Wellness, Live Arts and Culture `$1300` **
+## **Wellness, Live Arts and Culture `$800` **
 
 5. **Art project stage area**
 6. **Solar water feature** 
