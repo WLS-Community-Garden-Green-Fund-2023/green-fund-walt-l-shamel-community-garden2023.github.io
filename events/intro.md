@@ -5,24 +5,48 @@ The proposal is to renovate the natural bioswale in the garden with the intent t
 
 Bioswales are crucial components of urban stormwater management systems that help filter and absorb rainwater, reducing runoff and improving water quality. 
 
-## **Environmental Action, Health `$1700`**
+## **Environmental Action, Health `$1800` **
+$$
+(125square feet (18in Spacing) = 60 Plants
+$$
 
-125
+$$
+60 (Native Pollinators/Grass) @$20 = $1200
+$$
 
-- 1. **Native Pollinators
-  - Susan (Rudbeckia hirta) ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a4c89600-1bda-4c65-8fbf-674c3a26b296)
-  - Echinacea purpurear ![images](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a41aa48c-19d7-48ed-932d-5b27da2a5654)
-- Asclepias tubeosa ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/df3d9fa0-f5c3-4fcd-9bd3-f12daac90e46)
+$$
+15 (Shrubs/Bushes) @$50 = $500
+$$
 
+$$
+Sand|Pebbles|Cement = $100
+$$
+
+## **Native Pollinators**
+  - ### `Susan (Rudbeckia hirta)` 
+    ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a4c89600-1bda-4c65-8fbf-674c3a26b296)
+  - ### `Echinacea purpurear` 
+    ![images](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a41aa48c-19d7-48ed-932d-5b27da2a5654)
+  - ### `Asclepias tubeosa`
+  ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/df3d9fa0-f5c3-4fcd-9bd3-f12daac90e46)
 - 2. **Native Grass Pollinators**
-  - (Adagio Maiden 2 Grass,Ribbon Grass)
+  - ### `Ribbon Grass`
+  - ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/b2fe3846-387c-41ef-94dc-1454c21c5b96)
+  - ### `Adagio Maiden 2 Grass`
+    ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/ff1e0828-9b06-4f41-a052-89f89e4a4062)
 
 3. **Native Bush/Shrubs Pollinators**
-  - (Elderberry (Sambucus spp, Winterberry (Ilex verticillata, (Cornus sericea)
+  - ## `Elderberry`
+    ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/1e444ab3-9fba-405a-aeaa-a7d97bd6a8ff)
+- ### `Winterberry(Ilex verticillata)`
+  ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/d7ec23e1-a761-480d-b6ef-6a72049623dd)
+- ### `Blueberry`
+  ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5950ce50-3cff-486c-870a-55c412841cb9)
+
 
 4. **Stones, sand. ($100)**
 
-## **Wellness, Live Arts and Culture `$800` **
+## **Wellness, Live Arts and Culture `$700` **
 
 5. **Art project stage area**
 6. **Solar water feature** 
@@ -31,9 +55,6 @@ Bioswales are crucial components of urban stormwater management systems that hel
 9. **Pots and Outdoor Planter**s
   - [Free Soil and Stone](https://www.nyc.gov/site/oer/safe-land/clean-soil-request.page)
   - [GreenThumb Materials Request Form](https://forms.office.com/pages/responsepage.aspx?id=x2_1MoFfIk6pWxXaZlE777vIgzjC_gFHh0eUoNhEMEdURjRHS1NTWkI1R1FMU1A1RUdTMk8zTzc0UiQlQCN0PWcu&web=1&wdLOR=c200F2626-A017-4E11-B359-51D209B0DE43)
-
-
-
 
 <div>
   <iframe id="inlineFrameExample"
