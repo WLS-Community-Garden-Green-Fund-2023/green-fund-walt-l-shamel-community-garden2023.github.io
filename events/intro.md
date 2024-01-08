@@ -6,21 +6,21 @@ The proposal is to renovate the natural bioswale in the garden with the intent t
 Bioswales are crucial components of urban stormwater management systems that help filter and absorb rainwater, reducing runoff and improving water quality. 
 
 ## **Environmental Action, Health `$1800` **
-$$
+```
 (125square feet (18in Spacing) = 60 Plants
-$$
+```
 
-$$
+```
 60 (Native Pollinators/Grass) @$20 = $1200
-$$
+```
 
-$$
+```
 15 (Shrubs/Bushes) @$50 = $500
-$$
+```
 
-$$
+```
 Sand|Pebbles|Cement = $100
-$$
+```
 
 ## **Native Pollinators**
   - ### `Susan (Rudbeckia hirta)` 
