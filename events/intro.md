@@ -25,76 +25,69 @@ Sand|Pebbles|Cement = $100
 ## **Native Pollinators**
 <h2>Perennial Plants for Shade Gardens</h2>
 <table>
-  <thead>
-    <tr>
-      <th>Plant Name</th>
-      <th>Photo URL (Replace with actual URL)</th>
-    </tr>
-  </thead>
-  <tbody>
+   <thead>
       <tr>
-      <td>Susan (Rudbeckia hirta)</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a4c89600-1bda-4c65-8fbf-674c3a26b296" alt="Hosta" /></td>
-    </tr>
+         <th>Plant Name</th>
+         <th>Photo URL (Replace with actual URL)</th>
+      </tr>
+   </thead>
+   <tbody>
       <tr>
-      <td>Echinacea purpurea (Purple Coneflower)</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a41aa48c-19d7-48ed-932d-5b27da2a5654" alt="Hosta"/></td>
-    </tr>
-    <tr>
-      <td>Asclepias tubeosa</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/df3d9fa0-f5c3-4fcd-9bd3-f12daac90e46d" alt="Hosta"/></td>
-    </tr>
-    <tr>
-      <td>Hosta</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/8f19948d-efd9-4639-b207-d86ff941b7fd" alt="Hosta"/></td>
-    </tr>
-    <tr>
-      <td>Astilbe</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/242fd8b1-484d-4b8a-af09-2f3ff56428a4" alt="Astilbe"/></td>
-    </tr>
-    <tr>
-      <td>Bleeding Heart</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/3ada3baf-d2cd-490e-a5af-8d73ae203470" alt="Bleeding Heart"/></td>
-    </tr>
-    <tr>
-      <td>Coral Bells</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6351bbde-d42b-4d7d-949e-f0dcfc649aa6" alt="Coral Bells"/></td>
-    </tr>   
+         <td>Susan (Rudbeckia hirta)</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a4c89600-1bda-4c65-8fbf-674c3a26b296" alt="Hosta" /></td>
+      </tr>
       <tr>
-      <td>Lungwort</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/aad12e91-c3e8-47a1-b74d-25c50441338d" alt="Lungwort"/></td>
-    </tr>
+         <td>Echinacea purpurea (Purple Coneflower)</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a41aa48c-19d7-48ed-932d-5b27da2a5654" alt="Hosta"/></td>
+      </tr>
+      <tr>
+         <td>Asclepias tubeosa</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/df3d9fa0-f5c3-4fcd-9bd3-f12daac90e46d" alt="Hosta"/></td>
+      </tr>
+      <tr>
+         <td>Hosta</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/8f19948d-efd9-4639-b207-d86ff941b7fd" alt="Hosta"/></td>
+      </tr>
+      <tr>
+         <td>Astilbe</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/242fd8b1-484d-4b8a-af09-2f3ff56428a4" alt="Astilbe"/></td>
+      </tr>
+      <tr>
+         <td>Bleeding Heart</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/3ada3baf-d2cd-490e-a5af-8d73ae203470" alt="Bleeding Heart"/></td>
+      </tr>
+      <tr>
+         <td>Coral Bells</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6351bbde-d42b-4d7d-949e-f0dcfc649aa6" alt="Coral Bells"/></td>
+      </tr>
+      <tr>
+         <td>Lungwort</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/aad12e91-c3e8-47a1-b74d-25c50441338d" alt="Lungwort"/></td>
+      </tr>
       <td>Japanese Forest Grass</td>
       <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5085a073-43a6-4c27-a66b-cda6e9551597" alt="Japanese Forest Grass"/></td>
-    </tr>
-    <tr>
-      <td>Bergenia</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6eb8558d-6582-44a2-8170-a223af2a3fa6" alt="Bergenia"/></td>
-    </tr>
-    <tr>
-      <td>Lamium</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/67346be5-ab47-4876-807d-7862f6387357" alt="Lamium"/></td>
-    </tr>
-    <tr>
-      <td>Solomon's Seal</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/ec3a1448-dc78-4a3e-b803-ad999192a4bd"
- alt="Solomon's Seal"/></td>
-    </tr>
-    <tr>
-      <td>Toad Lily</td>
-      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/0178464c-dd92-4803-a928-8f95db47d786" alt="Toad Lily"/></td>
-    </tr>
-  </tbody>
+      </tr>
+      <tr>
+         <td>Bergenia</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6eb8558d-6582-44a2-8170-a223af2a3fa6" alt="Bergenia"/></td>
+      </tr>
+      <tr>
+         <td>Lamium</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/67346be5-ab47-4876-807d-7862f6387357" alt="Lamium"/></td>
+      </tr>
+      <tr>
+         <td>Solomon's Seal</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/ec3a1448-dc78-4a3e-b803-ad999192a4bd"
+            alt="Solomon's Seal"/></td>
+      </tr>
+      <tr>
+         <td>Toad Lily</td>
+         <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/0178464c-dd92-4803-a928-8f95db47d786" alt="Toad Lily"/></td>
+      </tr>
+   </tbody>
 </table>
 
-
-- 2. **Native Grass Pollinators**
-  - ### `Ribbon Grass`
-  - ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/b2fe3846-387c-41ef-94dc-1454c21c5b96)
-  - ### `Adagio Maiden 2 Grass`
-    ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/ff1e0828-9b06-4f41-a052-89f89e4a4062)
-
-3. **Native Bush/Shrubs Pollinators**
+2. **Native Bush/Shrubs Pollinators**
   - ## `Elderberry`
     ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/1e444ab3-9fba-405a-aeaa-a7d97bd6a8ff)
 - ### `Winterberry(Ilex verticillata)`
