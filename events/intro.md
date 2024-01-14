@@ -28,7 +28,72 @@ Sand|Pebbles|Cement = $100
   - ### `Echinacea purpurear` 
     ![images](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/a41aa48c-19d7-48ed-932d-5b27da2a5654)
   - ### `Asclepias tubeosa`
-  ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/df3d9fa0-f5c3-4fcd-9bd3-f12daac90e46)
+    ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/df3d9fa0-f5c3-4fcd-9bd3-f12daac90e46)
+
+    | Plant Name               | Photo     |
+|--------------------------|---------------------------------------|
+| Hosta                    |![perennial-hosta](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/8f19948d-efd9-4639-b207-d86ff941b7fd)
+l)             |
+| Astilbe                  | ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/242fd8b1-484d-4b8a-af09-2f3ff56428a4) |
+| Bleeding Heart           | ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/3ada3baf-d2cd-490e-a5af-8d73ae203470) |
+| Ferns                    | ![Ferns](placeholder_url)             |
+| Coral Bells              | ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6351bbde-d42b-4d7d-949e-f0dcfc649aa6) |
+| Lungwort                 | ![Lungwort](placeholder_url)          |
+| Foamflower               | ![Foamflower](placeholder_url)        |
+| Japanese Forest Grass    | ![Japanese Forest Grass](placeholder_url) |
+| Bergenia                 | ![Bergenia](placeholder_url)          |
+| Lamium                   | ![Lamium](placeholder_url)            |
+| Solomon's Seal           | ![Solomon's Seal](placeholder_url)    |
+| Toad Lily                | ![Toad Lily](placeholder_url)         |
+| Jacob's Ladder           | ![Jacob's Ladder](placeholder_url)    |
+| Japanese Painted Fern    | ![Japanese Painted Fern](placeholder_url) |
+| Hellebore                | ![Hellebore](placeholder_url)         |
+| Lily of the Valley       | ![Lily of the Valley](placeholder_url)|
+| Tiarella                 | ![Tiarella](placeholder_url)           |
+| Bugleweed                | ![Bugleweed](placeholder_url)          |
+| Epimedium                | ![Epimedium](placeholder_url)         |
+| Siberian Bugloss         | ![Siberian Bugloss](placeholder_url)  |
+| Astilboides              | ![Astilboides](placeholder_url)       |
+| Goatsbeard               | ![Goatsbeard](placeholder_url)        |
+| Wild Ginger              | ![Wild Ginger](placeholder_url)       |
+| Trillium                 | ![Trillium](placeholder_url)          |
+| Columbine                | ![Columbine](placeholder_url)         |
+| Meadow Rue               | ![Meadow Rue](placeholder_url)        |
+| Japanese Anemone         | ![Japanese Anemone](placeholder_url)  |
+| Celandine Poppy          | ![Celandine Poppy](placeholder_url)   |
+| Barrenwort               | ![Barrenwort](placeholder_url)        |
+| Woodland Phlox           | ![Woodland Phlox](placeholder_url)    |
+| Woodland Sage            | ![Woodland Sage](placeholder_url)     |
+| Sweet Woodruff           | ![Sweet Woodruff](placeholder_url)    |
+| Brunnera                 | ![Brunnera](placeholder_url)          |
+| Blue Cohosh              | ![Blue Cohosh](placeholder_url)       |
+| Mayapple                 | ![Mayapple](placeholder_url)          |
+| Hardy Begonia            | ![Hardy Begonia](placeholder_url)     |
+| Bishop's Hat             | ![Bishop's Hat](placeholder_url)      |
+| Fringed Bleeding Heart   | ![Fringed Bleeding Heart](placeholder_url) |
+| Jack-in-the-Pulpit       | ![Jack-in-the-Pulpit](placeholder_url)|
+| Wild Geranium            | ![Wild Geranium](placeholder_url)     |
+| Bloodroot                | ![Bloodroot](placeholder_url)         |
+| Canadian Wild Ginger     | ![Canadian Wild Ginger](placeholder_url) |
+| Fothergilla              | ![Fothergilla](placeholder_url)      |
+| Pulmonaria               | ![Pulmonaria](placeholder_url)       |
+| Wild Blue Phlox          | ![Wild Blue Phlox](placeholder_url)  |
+| Bluebell                 | ![Bluebell](placeholder_url)          |
+| Virginia Bluebell        | ![Virginia Bluebell](placeholder_url) |
+| Foamflower               | ![Foamflower](placeholder_url)        |
+| Wild Bleeding Heart      | ![Wild Bleeding Heart](placeholder_url) |
+| Sweet Flag               | ![Sweet Flag](placeholder_url)        |
+| Hakone Grass             | ![Hakone Grass](placeholder_url)      |
+| Sweet Cicely             | ![Sweet Cicely](placeholder_url)      |
+| Heartleaf Bergenia       | ![Heartleaf Bergenia](placeholder_url) |
+| Fringed Bleeding Heart   | ![Fringed Bleeding Heart](placeholder_url) |
+| Mayapple                 | ![Mayapple](placeholder_url)          |
+| Hardy Begonia            | ![Hardy Begonia](placeholder_url)     |
+| Bishop's Hat             | ![Bishop's Hat](placeholder_url)      |
+| Fringed Bleeding Heart   | ![Fringed Bleeding Heart](placeholder_url) |
+| Jack-in-the-Pulpit       | ![Jack-in-the-Pulpit](placeholder_url)|
+| Wild Geranium            | ![Wild Geranium](placeholder_url)     |
+
 - 2. **Native Grass Pollinators**
   - ### `Ribbon Grass`
   - ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/b2fe3846-387c-41ef-94dc-1454c21c5b96)
