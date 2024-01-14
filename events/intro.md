@@ -32,11 +32,44 @@ Sand|Pebbles|Cement = $100
 
     | Plant Name               | Photo     |
 |--------------------------|---------------------------------------|
-| Hosta                    |![perennial-hosta](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/8f19948d-efd9-4639-b207-d86ff941b7fd)
+| Hosta                    |![perennial-hosta]()
 l)             |
-| Astilbe                  | ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/242fd8b1-484d-4b8a-af09-2f3ff56428a4) |
-| Bleeding Heart           | ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/3ada3baf-d2cd-490e-a5af-8d73ae203470) |
-| Coral Bells              | ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6351bbde-d42b-4d7d-949e-f0dcfc649aa6) |
+| Astilbe                  | ![download]() |
+| Bleeding Heart           | ![download]() |
+| Coral Bells              | ![download](h) |
+
+https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/8f19948d-efd9-4639-b207-d86ff941b7fd
+
+<h2>Perennial Plants for Shade Gardens</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Plant Name</th>
+      <th>Photo URL (Replace with actual URL)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hosta</td>
+      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/8f19948d-efd9-4639-b207-d86ff941b7fd" alt="Hosta"></td>
+    </tr>
+    <tr>
+      <td>Astilbe</td>
+      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/242fd8b1-484d-4b8a-af09-2f3ff56428a4" alt="Astilbe"></td>
+    </tr>
+    <tr>
+      <td>Bleeding Heart</td>
+      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/3ada3baf-d2cd-490e-a5af-8d73ae203470" alt="Bleeding Heart"></td>
+    </tr>
+    <tr>
+      <td>Coral Bells</td>
+      <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6351bbde-d42b-4d7d-949e-f0dcfc649aa6" alt="Coral Bells"></td>
+    </tr>
+    <tr>
+   
+  </tbody>
+</table>
 
 
 - 2. **Native Grass Pollinators**
