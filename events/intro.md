@@ -114,14 +114,35 @@ Sand|Pebbles|Cement = $100
 </table>
 
 
-2. **Native Bush/Shrubs Pollinators**
-  - ## `Elderberry`
-    ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/1e444ab3-9fba-405a-aeaa-a7d97bd6a8ff)
-- ### `Winterberry(Ilex verticillata)`
-  ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/d7ec23e1-a761-480d-b6ef-6a72049623dd)
-- ### `Blueberry`
-  ![download](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5950ce50-3cff-486c-870a-55c412841cb9)
-
+## **Native Bush/Shrubs Pollinators**
+<table>
+  <thead>
+    <tr>
+      <th>Plant Name</th>
+      <th>Photo </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Elderberry</td>
+      <td>
+        <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/1e444ab3-9fba-405a-aeaa-a7d97bd6a8ff" alt="Hosta" />
+      </td>
+    </tr>
+    <tr>
+      <td>Winterberry(Ilex verticillata) </td>
+      <td>
+        <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/d7ec23e1-a761-480d-b6ef-6a72049623dd" alt="Hosta"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Blueberry</td>
+      <td>
+        <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5950ce50-3cff-486c-870a-55c412841cb9" alt="Hosta"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 4. **Stones, sand. ($100)**
 
