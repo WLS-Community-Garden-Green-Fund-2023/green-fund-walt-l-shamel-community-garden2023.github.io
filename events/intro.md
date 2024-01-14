@@ -59,7 +59,7 @@ Sand|Pebbles|Cement = $100
     <tr>
       <td>Astilbe</td>
       <td>
-        <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/242fd8b1-484d-4b8a-af09-2f3ff56428a4" alt="Astilbe"/
+        <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/242fd8b1-484d-4b8a-af09-2f3ff56428a4" alt="Astilbe"/>
       </td>
     </tr>
     <tr>
@@ -80,10 +80,12 @@ Sand|Pebbles|Cement = $100
         <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/aad12e91-c3e8-47a1-b74d-25c50441338d" alt="Lungwort"/>
       </td>
     </tr>
-    <td>Japanese Forest Grass</td>
-    <td>
-      <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5085a073-43a6-4c27-a66b-cda6e9551597" alt="Japanese Forest Grass"/>
-    </td>
+    <tr>
+      <td>Japanese Forest Grass</td>
+      <td>
+        <img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5085a073-43a6-4c27-a66b-cda6e9551597" alt="Japanese Forest Grass"/>
+      </td>
+    </tr>
     <tr>
       <td>Bergenia</td>
       <td>
@@ -110,6 +112,7 @@ Sand|Pebbles|Cement = $100
     </tr>
   </tbody>
 </table>
+
 
 2. **Native Bush/Shrubs Pollinators**
   - ## `Elderberry`
