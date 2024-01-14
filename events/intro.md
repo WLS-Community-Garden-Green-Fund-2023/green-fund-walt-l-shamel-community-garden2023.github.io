@@ -38,8 +38,6 @@ l)             |
 | Bleeding Heart           | ![download]() |
 | Coral Bells              | ![download](h) |
 
-https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/8f19948d-efd9-4639-b207-d86ff941b7fd
-
 <h2>Perennial Plants for Shade Gardens</h2>
 
 <table>
@@ -65,9 +63,7 @@ https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel
     <tr>
       <td>Coral Bells</td>
       <td><img src="https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/6351bbde-d42b-4d7d-949e-f0dcfc649aa6" alt="Coral Bells"></td>
-    </tr>
-    <tr>
-   
+    </tr>   
   </tbody>
 </table>
 
