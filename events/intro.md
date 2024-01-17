@@ -184,10 +184,12 @@ Sand|Pebbles|Cement = $100
 ## **Wellness, Live Arts and Culture `$700` **
 
 5. **Art project stage area**
-6. **Solar water feature**
-7. **Solar lights**
-8. **Bat box**
-9. **Pots and Outdoor Planter**s
+   - ![images](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/e8795846-080c-4b47-ba54-df9164e04919)
+7. **Solar water feature**
+   -  ![image](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/af00ea4f-48f1-4a03-bfce-446401a94d17)
+9. **Solar lights**
+10. **Bat box**
+11. **Pots and Outdoor Planter**s
 
 - [Free Soil and Stone](https://www.nyc.gov/site/oer/safe-land/clean-soil-request.page)
 - [GreenThumb Materials Request Form](https://forms.office.com/pages/responsepage.aspx?id=x2_1MoFfIk6pWxXaZlE777vIgzjC_gFHh0eUoNhEMEdURjRHS1NTWkI1R1FMU1A1RUdTMk8zTzc0UiQlQCN0PWcu&web=1&wdLOR=c200F2626-A017-4E11-B359-51D209B0DE43)
