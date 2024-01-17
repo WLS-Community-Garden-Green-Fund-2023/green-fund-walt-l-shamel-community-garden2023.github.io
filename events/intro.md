@@ -15,14 +15,14 @@ Bioswales are crucial components of urban stormwater management systems that hel
 ```
 
 ```
-15 (Shrubs/Bushes) @$50 = $500
+10 (Shrubs/Bushes) @$50 = $500
 ```
 
 ```
 Sand|Pebbles|Cement = $100
 ```
 
-## **Native Pollinators**
+## **Native Pollinators** `$1200`
 1.  ### Perennial Plants for Shade Gardens
 | Plant Name                        | Photo                                                | Estimated Quantity | Adopt Me         |
 | --------------------------------- | ---------------------------------------------------- | ------------------- | ---------------- |
@@ -42,18 +42,16 @@ Sand|Pebbles|Cement = $100
 |                            |  | 3                   | <button class="button button--primary">Adopt Me</button> |
 |                             | | 3                   | <button class="button button--primary">Adopt Me</button> |
 
-2. ### **Native Bush/Shrubs Pollinators**
-
-# Native Bush/Shrubs Pollinators
+2. ### **Native Bush/Shrubs Pollinators** `$500`
 | Plant Name                        | Photo                                                | Estimated Quantity | Adopt Me         |
 | --------------------------------- | ---------------------------------------------------- | ------------------- | ---------------- |
-| Elderberry                        | ![Elderberry](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/1e444ab3-9fba-405a-aeaa-a7d97bd6a8ff) | 3                   | <button class="button button--primary">Adopt Me</button> |
-| Winterberry (Ilex verticillata)   | ![Winterberry](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/d7ec23e1-a761-480d-b6ef-6a72049623dd) | 3                   | <button class="button button--primary">Adopt Me</button> |
-| Blueberry                          | ![Blueberry](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5950ce50-3cff-486c-870a-55c412841cb9) | 3 |  <button class="button button--primary">Adopt Me</button>
-|                           |  | 3 |  <button class="button button--primary">Adopt Me</button>
-|                           | | 3 |  <button class="button button--primary">Adopt Me</button>
+| Elderberry                        | ![Elderberry](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/1e444ab3-9fba-405a-aeaa-a7d97bd6a8ff) | 2                   | <button class="button button--primary">Adopt Me</button> |
+| Winterberry (Ilex verticillata)   | ![Winterberry](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/d7ec23e1-a761-480d-b6ef-6a72049623dd) | 2                   | <button class="button button--primary">Adopt Me</button> |
+| Blueberry                          | ![Blueberry](https://github.com/WLS-Community-Garden-Green-Fund-2023/green-fund-walt-l-shamel-community-garden2023.github.io/assets/22154417/5950ce50-3cff-486c-870a-55c412841cb9) | 2 |  <button class="button button--primary">Adopt Me</button>
+|                           |  | 2 |  <button class="button button--primary">Adopt Me</button>
+|                           | | 2 |  <button class="button button--primary">Adopt Me</button>
 
-3. ### **Stones, sand. ($100)**
+3. ### **Stones, sand. `$100`**
 
 ## **Wellness, Live Arts and Culture `$700` **
 
