@@ -23,8 +23,6 @@ Sand|Pebbles|Cement = $100
 ```
 
 ## **Native Pollinators**
-
-<h2>Perennial Plants for Shade Gardens</h2>
 ## Perennial Plants for Shade Gardens
 
 | Plant Name                        | Photo                                                | Estimated Quantity | Adopt Me         |
