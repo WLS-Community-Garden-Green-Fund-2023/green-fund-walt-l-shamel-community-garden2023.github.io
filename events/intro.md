@@ -1,11 +1,11 @@
-
 # Overview
 
-The proposal is to renovate the natural bioswale in the garden with the intent to beautify Crown Heights, promoting biodiversity, and strengthening community bonds. Supporting native pollinators helps maintain local biodiversity, supporting ecosystem health, and contributes to the overall well-being of the community. One of the primary needs we aim to address through this proposal is the improvement and beautification of the natural bioswale in the garden. 
+The proposal is to renovate the natural bioswale in the garden with the intent to beautify Crown Heights, promoting biodiversity, and strengthening community bonds. Supporting native pollinators helps maintain local biodiversity, supporting ecosystem health, and contributes to the overall well-being of the community. One of the primary needs we aim to address through this proposal is the improvement and beautification of the natural bioswale in the garden.
 
-Bioswales are crucial components of urban stormwater management systems that help filter and absorb rainwater, reducing runoff and improving water quality. 
+Bioswales are crucial components of urban stormwater management systems that help filter and absorb rainwater, reducing runoff and improving water quality.
 
 ## **Environmental Action, Health `$1800` **
+
 ```
 (125square feet (18in Spacing) = 60 Plants
 ```
@@ -23,6 +23,7 @@ Sand|Pebbles|Cement = $100
 ```
 
 ## **Native Pollinators**
+
 <h2>Perennial Plants for Shade Gardens</h2>
 <table>
   <thead>
@@ -41,7 +42,6 @@ Sand|Pebbles|Cement = $100
       </td>
       <td>3</td>
       <td><button class="button">Adopt Me</button></td>
-</td>
     </tr>
     <tr>
       <td>Echinacea purpurea (Purple Coneflower)</td>
@@ -140,8 +140,8 @@ Sand|Pebbles|Cement = $100
   </tbody>
 </table>
 
-
 ## **Native Bush/Shrubs Pollinators**
+
 <table>
   <thead>
     <tr>
@@ -184,14 +184,15 @@ Sand|Pebbles|Cement = $100
 ## **Wellness, Live Arts and Culture `$700` **
 
 5. **Art project stage area**
-6. **Solar water feature** 
+6. **Solar water feature**
 7. **Solar lights**
-8. **Bat box** 
+8. **Bat box**
 9. **Pots and Outdoor Planter**s
-  - [Free Soil and Stone](https://www.nyc.gov/site/oer/safe-land/clean-soil-request.page)
-  - [GreenThumb Materials Request Form](https://forms.office.com/pages/responsepage.aspx?id=x2_1MoFfIk6pWxXaZlE777vIgzjC_gFHh0eUoNhEMEdURjRHS1NTWkI1R1FMU1A1RUdTMk8zTzc0UiQlQCN0PWcu&web=1&wdLOR=c200F2626-A017-4E11-B359-51D209B0DE43)
-  - [four-hexagonal-planters-with-three-seats])(https://www.schoolscapesuk.com/product/four-hexagonal-planters-with-three-seats/)
-  - [hexagonal-planter](https://caledoniaplay.com/product/hexagonal-planter/)
+
+- [Free Soil and Stone](https://www.nyc.gov/site/oer/safe-land/clean-soil-request.page)
+- [GreenThumb Materials Request Form](https://forms.office.com/pages/responsepage.aspx?id=x2_1MoFfIk6pWxXaZlE777vIgzjC_gFHh0eUoNhEMEdURjRHS1NTWkI1R1FMU1A1RUdTMk8zTzc0UiQlQCN0PWcu&web=1&wdLOR=c200F2626-A017-4E11-B359-51D209B0DE43)
+- [four-hexagonal-planters-with-three-seats])(https://www.schoolscapesuk.com/product/four-hexagonal-planters-with-three-seats/)
+- [hexagonal-planter](https://caledoniaplay.com/product/hexagonal-planter/)
 
 <div>
   <iframe id="inlineFrameExample"
@@ -201,5 +202,3 @@ Sand|Pebbles|Cement = $100
       src="https://app.sketchup.com/share/tc/northAmerica/L4YbvX11ABA?stoken=YJ_EdnWwp9Nfq3Na-boA3vhL1m1YJ05OEPx5vuN_ahtYmBbIA-eKFN81QieEgJRN&source=web">
   </iframe>
 </div>
-
-
